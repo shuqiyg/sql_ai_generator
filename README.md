@@ -1,1 +1,1 @@
-# sql_ai_generator
+![frontPage](client/src/assets/Screenshot.png)
